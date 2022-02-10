@@ -5,6 +5,6 @@ public class DemoGitHub
 	public static void main(String[] args)
 	{
 		System.out.println("Hello This is Main Method...1");
-		System.out.println("@nd print statement");
+		System.out.println("2nd print statement");
 	}
 }
