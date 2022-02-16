@@ -12,7 +12,9 @@ public class DemoGitHub
 
 		System.out.println("4th Print msg");
 
-		System.out.println("$th Print msg");
+		System.out.println("5th Print msg");
+		
+		System.out.println("6th print msg");
 		
 
 	}
